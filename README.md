@@ -5,5 +5,4 @@ https://adventofcode.com/2021
 
 ## Day 1 
 part 1 - 1553
-
 part 2 - 1597
