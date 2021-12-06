@@ -22,3 +22,8 @@ part 2 - 4590
 ## Day 5
 part 1 - 4993  
 part 2 - 21101  
+
+## Day 6 
+part 1 - 383160  
+part 2 - 1721148811504 (got to love exponential growth)  
+
