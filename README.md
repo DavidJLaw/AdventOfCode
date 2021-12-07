@@ -27,3 +27,7 @@ part 2 - 21101
 part 1 - 383160  
 part 2 - 1721148811504 (got to love exponential growth)  
 
+## Day 7
+part 1 - 354129  
+part 2 - 98905973  
+
